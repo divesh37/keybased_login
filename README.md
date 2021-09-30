@@ -13,6 +13,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCV4rtp0gTMXMiTJxiPzgnSr/bl6OJRn4F83rY33t1
 copy the public key.
 
 #**Remote server:**
+
 Adduser username
 su username
 
